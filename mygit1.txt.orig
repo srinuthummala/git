@@ -1,0 +1,6 @@
+this is my git one first line
+<<<<<<< HEAD
+git1 change
+=======
+edited by git2
+>>>>>>> edited mygit1.txt by git2
